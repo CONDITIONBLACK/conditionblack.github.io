@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BannerIdentifier</key>
+				<string>C1E367F3-1ED8-4E7C-ACBD-A2AE57991526</string>
+				<key>BrowserTitle</key>
+				<string>Condition Black</string>
+				<key>CreatedDate</key>
+				<date>2018-07-16T11:39:45Z</date>
+				<key>CustomThemeName</key>
+				<string>Future</string>
+				<key>ID</key>
+				<string>page0</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>CBSTD</string>
+				<key>PageTitle</key>
+				<string>Home</string>
+				<key>PluginClassName</key>
+				<string>RWMarkdownPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Markdown</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/shadowops/Downloads/ConditionBlack/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-03-30T03:46:20Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								0QVbGx2BcXXR
+								qp1TRalneg==
+								</data>
+								<key>Size</key>
+								<integer>8165</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page0</string>
+						<key>SiteRoot</key>
+						<string></string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>
