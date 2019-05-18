@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/shadow0ps
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://condition.black
+  * I am shadow0ps (https://keybase.io/shadow0ps) on keybase.
+  * I have a public key ASDtcOEZ1MlP8AFFwPkr1jHdtbda0RudBwV6qx1t0iHLKAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cb173051d0802b099c22f1de7808faea94ecf117d4b8f5cb594eb30110c21d910a",
+      "host": "keybase.io",
+      "kid": "0120ed70e119d4c94ff00145c0f92bd631ddb5b75ad11b9d07057aab1d6dd221cb280a",
+      "uid": "1d4d89335172799acb4abd644c293a19",
+      "username": "shadow0ps"
+    },
+    "merkle_root": {
+      "ctime": 1558144479,
+      "hash": "ecf92eef89c1c2008a6352bb8e630e2d66d8ffd2ba5da8e5116948c38f5407947de6e05b5bbcd360056281b87c757a4bac44400a76bb389ab11f9b87c39e54ad",
+      "hash_meta": "0253f2a8b5d5bd040aff575c9d258fe02494213b5a9be1a8e730a6a165461465",
+      "seqno": 5396899
+    },
+    "service": {
+      "entropy": "94sT7F3QE9/llyiqztxLFrHD",
+      "hostname": "condition.black",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558144494,
+  "expire_in": 504576000,
+  "prev": "3a0aa76b038c454854bc6aad712e4835041d9f24422f26af5845a1fcec9d9eba",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7XDhGdTJT/ABRcD5K9Yx3bW3WtEbnQcFeqsdbdIhyygKp3BheWxvYWTESpcCPcQgOgqnawOMRUhUvGqtcS5INQQdnyRCLyavWEWh/OydnrrEIKW+baxlAJGs/aL2PMZMHgSSivhIDoXILULPuVd5I7QHAgHCo3NpZ8RA9/M4VnBEoT+xg0I0WShUHkS6b80gr1ckzzPZnboAvQUKNVgiTfK9VIvDxQnhArgLhijLQboi1fqyW+97cLLGCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBLPkHlbZrSG4DQDCj0JwEHQ/gaJBPNOnvzlQoDKkkfIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shadow0ps
+
+==================================================================
