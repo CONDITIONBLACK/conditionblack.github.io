@@ -70,11 +70,11 @@
 				<key>FilenameExtension</key>
 				<string>html</string>
 				<key>FolderName</key>
-				<string>code-2</string>
+				<string>policies</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>Hidden</key>
-				<true/>
+				<false/>
 				<key>ImageFormat</key>
 				<string>Original</string>
 				<key>ImageQuality</key>

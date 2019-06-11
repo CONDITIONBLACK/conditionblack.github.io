@@ -9,6 +9,8 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
+				<key>BrowserTitle</key>
+				<string>Policies</string>
 				<key>CreatedDate</key>
 				<date>2019-06-11T18:12:02Z</date>
 				<key>CustomThemeName</key>
@@ -35,7 +37,7 @@
 					<key>file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T19:12:49Z</date>
+						<date>2019-06-11T19:21:46Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -54,7 +56,7 @@
 						<key>PageID</key>
 						<string>page5</string>
 						<key>SiteRoot</key>
-						<string>code-2</string>
+						<string>policies</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
