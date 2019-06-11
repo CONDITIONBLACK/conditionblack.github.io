@@ -56,6 +56,10 @@
 				<string>High</string>
 				<key>IndexFilename</key>
 				<string></string>
+				<key>MetaTags</key>
+				<array>
+					<dict/>
+				</array>
 				<key>OutputXMLDeclaration</key>
 				<false/>
 				<key>RobotsShouldFollowLinks</key>
