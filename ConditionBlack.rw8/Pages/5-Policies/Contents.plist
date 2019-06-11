@@ -60,6 +60,32 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
+					<key>file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-06-11T19:26:19Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								j+++U08CXQ9x
+								kfgvzgmU3w==
+								</data>
+								<key>Size</key>
+								<integer>179404</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page5</string>
+						<key>SiteRoot</key>
+						<string>policies</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
 				</dict>
 			</dict>
 			<key>Files</key>

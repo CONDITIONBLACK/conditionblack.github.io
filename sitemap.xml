@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://condition.black/index.html</loc>
+		<lastmod>2019-06-11</lastmod>
 	</url>
 	<url>
 		<loc>https://condition.black/research/index.html</loc>
-	</url>
-	<url>
-		<loc>https://condition.black/research/files/6df634bd64f22193a33da2d82a3d9337-3.html</loc>
+		<lastmod>2019-06-11</lastmod>
 	</url>
 	<url>
 		<loc>https://condition.black/research/files/archive-march-2019.html</loc>
+		<lastmod>2019-06-11</lastmod>
 	</url>
 	<url>
 		<loc>https://condition.black/code/index.html</loc>
+		<lastmod>2019-06-11</lastmod>
+	</url>
+	<url>
+		<loc>https://condition.black/policies/index.html</loc>
+		<lastmod>2019-06-11</lastmod>
 	</url>
 </urlset>
