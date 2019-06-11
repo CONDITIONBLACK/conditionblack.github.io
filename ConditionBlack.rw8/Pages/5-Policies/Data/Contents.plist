@@ -9,22 +9,18 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
-				<key>HomePage</key>
-				<string>1-Home</string>
+				<key>ApplyThemeToPage</key>
+				<integer>0</integer>
 			</dict>
 			<key>Files</key>
-			<array/>
-			<key>Subsandwiches</key>
 			<array>
-				<string>1-Home</string>
-				<string>2-Research</string>
-				<string>3-Admin</string>
-				<string>4-Contact-Us</string>
-				<string>5-Policies</string>
+				<string>Contents.html</string>
 			</array>
+			<key>Subsandwiches</key>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Pages</string>
+	<string>RapidWeaver HTML Code Data</string>
 </dict>
 </plist>

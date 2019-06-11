@@ -9,28 +9,24 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
-				<key>BannerIdentifier</key>
-				<string>C1E367F3-1ED8-4E7C-ACBD-A2AE57991526</string>
-				<key>BrowserTitle</key>
-				<string>Condition Black</string>
 				<key>CreatedDate</key>
-				<date>2018-07-16T11:39:45Z</date>
+				<date>2019-06-11T18:12:02Z</date>
 				<key>CustomThemeName</key>
 				<string>Future</string>
 				<key>ID</key>
-				<string>page0</string>
+				<string>page5</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>CBSTD</string>
 				<key>PageTitle</key>
-				<string>Home</string>
+				<string>Policies</string>
 				<key>PluginClassName</key>
-				<string>RWMarkdownPlugin</string>
+				<string>RWHTMLPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
 					<string>Realmac Software</string>
 					<key>Name</key>
-					<string>Markdown</string>
+					<string>HTML Code</string>
 					<key>Version</key>
 					<string>7.0</string>
 				</dict>
@@ -48,17 +44,17 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								++l4WygA0jWP
-								0PobuiHFKQ==
+								j+++U08CXQ9x
+								kfgvzgmU3w==
 								</data>
 								<key>Size</key>
-								<integer>8208</integer>
+								<integer>179404</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
-						<string>page0</string>
+						<string>page5</string>
 						<key>SiteRoot</key>
-						<string></string>
+						<string>code-2</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>

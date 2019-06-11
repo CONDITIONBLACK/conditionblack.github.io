@@ -16,7 +16,7 @@
 					<key>page0 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-30T03:46:20Z</date>
+						<date>2019-06-11T19:12:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -25,11 +25,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								0QVbGx2BcXXR
-								qp1TRalneg==
+								++l4WygA0jWP
+								0PobuiHFKQ==
 								</data>
 								<key>Size</key>
-								<integer>8165</integer>
+								<integer>8208</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -42,7 +42,7 @@
 					<key>page1 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-30T02:38:54Z</date>
+						<date>2019-06-11T19:12:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -51,31 +51,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ioCxcBQ8yk7w
-								7cLoCN2fTQ==
+								johBroCSu+8f
+								xFFAOowteA==
 								</data>
 								<key>Size</key>
-								<integer>6446</integer>
+								<integer>6663</integer>
+							</dict>
+							<key>files/feed.xml</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lQMpgqCZ4oSE
+								JkWdLXcSbg==
+								</data>
+								<key>Size</key>
+								<integer>1590</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								0dx8NA1H2vug
-								y6YAMcn3iw==
+								f+5EaadgBbDJ
+								zpgBElgNCg==
 								</data>
 								<key>Size</key>
-								<integer>1610</integer>
+								<integer>1830</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								R5ErjlkbAKiG
-								wQ53t+vJyQ==
+								cu/Zxkqqwyyn
+								sQ1zlBrbUg==
 								</data>
 								<key>Size</key>
-								<integer>6408</integer>
+								<integer>6798</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -88,7 +98,7 @@
 					<key>page2 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-30T03:38:39Z</date>
+						<date>2019-06-11T19:12:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -97,11 +107,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								nBeppiZFSIuY
-								Lbk1EQab4g==
+								G6DR0uUQZMpx
+								ksZH0U/MKg==
 								</data>
 								<key>Size</key>
-								<integer>1405</integer>
+								<integer>1459</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -147,10 +157,62 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
+					<key>page4 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-06-11T19:12:49Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								T2vRgVrSdC0t
+								WfikyCW39A==
+								</data>
+								<key>Size</key>
+								<integer>5916</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page4</string>
+						<key>SiteRoot</key>
+						<string>code</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+					<key>page5 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-06-11T19:12:49Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								j+++U08CXQ9x
+								kfgvzgmU3w==
+								</data>
+								<key>Size</key>
+								<integer>179404</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page5</string>
+						<key>SiteRoot</key>
+						<string>code-2</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
 					<key>rw:document:extrafiles - file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-30T03:38:39Z</date>
+						<date>2019-06-11T19:12:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -189,8 +251,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								T/XYaun1DEJU
-								Zo/tr6E3yg==
+								NXQpx4I5ME0Z
+								T1F83krUOQ==
 								</data>
 								<key>Size</key>
 								<integer>5</integer>
@@ -199,11 +261,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								bmvnvsWK3Ta1
-								RL536KXTzQ==
+								IgJ20Y4qQscS
+								7eZFLBgAGw==
 								</data>
 								<key>Size</key>
-								<integer>678</integer>
+								<integer>511</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
@@ -1522,7 +1584,7 @@
 				RS1CRkJCLTRBODQtOURDRC1GNzc4QzlCN0E5RDBaZnV0
 				dXJlLnBuZ18QJDZBNkFEQ0ZFLUMzRkQtNDU5Ny05QzQ5
 				LTc1NjdCMDNEMzRBRdIASAALAEkASldOUy50aW1lI0HB
-				J48G79ApgAzSAB4AHwBMAE1WTlNEYXRlogBMACPTAAkA
+				WBpZKck2gAzSAB4AHwBMAE1WTlNEYXRlogBMACPTAAkA
 				CgALAE8AUQBToQBQgA6hAFKAD4AQXxAxZmlsZTovLy9V
 				c2Vycy9zaGFkb3dvcHMvRG93bmxvYWRzL0NvbmRpdGlv
 				bkJsYWNrLwjSAB4AHwBXAFhfEBNOU011dGFibGVEaWN0
@@ -1540,7 +1602,7 @@
 				NWZRJnM9NjMxYTJmNjc0ODE5Yzk4OTBmMzA3YjRlZjM0
 				ZTkyMjnTAG0ACwBuABYAcABoV05TLmJhc2VbTlMucmVs
 				YXRpdmWAAIAXgBXSAB4AHwBzAHRVTlNVUkyiAHMAI9IA
-				SAALAHYASiNBwSePBvAJNYAM0wAJAAoACwB5AHsAU6EA
+				SAALAHYASiNBwVgaWSnJrIAM0wAJAAoACwB5AHsAU6EA
 				eoAaoQBSgA+AEF8QMWZpbGU6Ly8vVXNlcnMvc2hhZG93
 				b3BzL0Rvd25sb2Fkcy9Db25kaXRpb25CbGFjay/aADIA
 				MwALADQANQA2ABMANwA4ADkAXwAWADwAgwAWAIUAhgCH
@@ -1553,8 +1615,8 @@
 				bnRyb3B5JmNzPXRpbnlzcmdiJnc9MTA4MCZmaXQ9bWF4
 				Jml4aWQ9ZXlKaGNIQmZhV1FpT2pFek1qUTVmUSZzPWNh
 				YWE1YjExNjg2MTc4NGYyZGNhY2QxNWRkN2YyZGFh0wBt
-				AAsAbgAWAHAAiYAAgBeAHtIASAALAJIASiNBwSePBvBD
-				PYAM0wAJAAoACwCVAJcAU6EAloAioQBSgA+AEF8QMWZp
+				AAsAbgAWAHAAiYAAgBeAHtIASAALAJIASiNBwVgaWSnJ
+				1oAM0wAJAAoACwCVAJcAU6EAloAioQBSgA+AEF8QMWZp
 				bGU6Ly8vVXNlcnMvc2hhZG93b3BzL0Rvd25sb2Fkcy9D
 				b25kaXRpb25CbGFjay/aADIAMwALADQANQA2ABMANwA4
 				ADkAXwAWADwAnwAWAKEAogCjAKQApQmAAIARgCeAAIAp
@@ -1567,15 +1629,15 @@
 				cmdiJnc9MTA4MCZmaXQ9bWF4Jml4aWQ9ZXlKaGNIQmZh
 				V1FpT2pFek1qUTVmUSZzPWY4MmY4MmZkMTZlYmJlZGMx
 				NWFmMWI3OGZiY2Q5Zjhj0wBtAAsAbgAWAHAApYAAgBeA
-				JtIASAALAK4ASiNBwSePBvCjg4AM0wAJAAoACwCxALMA
+				JtIASAALAK4ASiNBwVgaWSnJ74AM0wAJAAoACwCxALMA
 				U6EAsoAqoQBSgA+AEF8QMWZpbGU6Ly8vVXNlcnMvc2hh
 				ZG93b3BzL0Rvd25sb2Fkcy9Db25kaXRpb25CbGFjay/a
 				ADIAMwALADQANQA2ABMANwA4ADkAOgAWADwAFgAWAL0A
 				vgC/AMAAwQiAAIARgACAAIAwgC2ALIAvgC5fECRGMTE2
 				NDlFMi04NjRCLTQ1NEUtOUFERi02ODYwQzk5MzIzNUZc
 				RW5saWdodDIuanBnXxAkM0U0QUZGQkYtNzJENy00NkRD
-				LUFBRjYtRDREM0UxNzAyRTc50gBIAAsAxgBKI0HBJ48G
-				8OKPgAzTAAkACgALAMkAywBToQDKgDGhAFKAD4AQXxAx
+				LUFBRjYtRDREM0UxNzAyRTc50gBIAAsAxgBKI0HBWBpZ
+				KcoQgAzTAAkACgALAMkAywBToQDKgDGhAFKAD4AQXxAx
 				ZmlsZTovLy9Vc2Vycy9zaGFkb3dvcHMvRG93bmxvYWRz
 				L0NvbmRpdGlvbkJsYWNrL9oAMgAzAAsANAA1ADYAEwA3
 				ADgAOQBfABYAPADTABYA1QDWANcA2ADZCYAAgBGANoAA
@@ -1587,7 +1649,7 @@
 				JmZtPWpwZyZjcm9wPWVudHJvcHkmY3M9dGlueXNyZ2Im
 				dz0xMDgwJmZpdD1tYXgmaXhpZD1leUpoY0hCZmFXUWlP
 				akV6TWpRNWZR0wBtAAsAbgAWAHAA2YAAgBeANdIASAAL
-				AOIASiNBwSePBvEdgoAM0wAJAAoACwDlAOcAU6EA5oA5
+				AOIASiNBwVgaWSnKMoAM0wAJAAoACwDlAOcAU6EA5oA5
 				oQBSgA+AEF8QMWZpbGU6Ly8vVXNlcnMvc2hhZG93b3Bz
 				L0Rvd25sb2Fkcy9Db25kaXRpb25CbGFjay/aADIAMwAL
 				ADQANQA2ABMANwA4ADkAOgAWADwAFgAWAPEA8gDzAPQA
@@ -1596,15 +1658,15 @@
 				Qjc1Ni0xRTk0LTQ2MTItODgzRC1FNkJBOENDNjUxMzEt
 				Mjg3Mi0wMDAwMDFFNjNFOUZDOERFLm1vdl8QJEE2REEx
 				NkEyLTI0NzctNEU2Qi05RTc5LTg3QTNBNTYyNUFFMNIA
-				SAALAPoASiNBwSePBvFUyoAM0wAJAAoACwD9AP8AU6EA
+				SAALAPoASiNBwVgaWSnKS4AM0wAJAAoACwD9AP8AU6EA
 				/oBAoQBSgA+AEF8QMWZpbGU6Ly8vVXNlcnMvc2hhZG93
 				b3BzL0Rvd25sb2Fkcy9Db25kaXRpb25CbGFjay/aADIA
 				MwALADQANQA2ABMANwA4ADkAOgEFADwAFgAWAQkBCgEL
 				AQwBDQiASIARgACAAIBGgEOAQoBFgERfECQ5OUI5MEQ1
 				RC0wRTdGLTRCMDctOTQyMS0zODBBMjg0QTY0OUVeU3Rv
 				Y2stbWluLmpwZWdfECQ3Q0NCNDZGNC1DN0I0LTRFMTUt
-				OTVBRS1ENkM3ODM1NTA4MjHSAEgACwESAEojQcEnjwbx
-				mcyADNMACQAKAAsBFQEXAFOhARaAR6EAUoAPgBBfEDFm
+				OTVBRS1ENkM3ODM1NTA4MjHSAEgACwESAEojQcFYGlkp
+				ym2ADNMACQAKAAsBFQEXAFOhARaAR6EAUoAPgBBfEDFm
 				aWxlOi8vL1VzZXJzL3NoYWRvd29wcy9Eb3dubG9hZHMv
 				Q29uZGl0aW9uQmxhY2svXxApL1VzZXJzL3NoYWRvd29w
 				cy9Eb3dubG9hZHMvU3RvY2stbWluLmpwZWfaADIAMwAL
@@ -1612,7 +1674,7 @@
 				JgiAUIARgACAAIBOgEuASoBNgExfECQ2QjVDRDgzQy0z
 				NTYyLTQzRkYtQTgxOC01MjgxQ0IxMEQwM0RecmVzZWFy
 				Y2gxLmpwZWdfECQwN0VCNkZGQy1CNEExLTRCOUEtQjlB
-				NC04MTMyQURDNzA2QzDSAEgACwErAEojQcEnjwbx1xuA
+				NC04MTMyQURDNzA2QzDSAEgACwErAEojQcFYGlkpyoaA
 				DNMACQAKAAsBLgEwAFOhAS+AT6EAUoAPgBBfEDFmaWxl
 				Oi8vL1VzZXJzL3NoYWRvd29wcy9Eb3dubG9hZHMvQ29u
 				ZGl0aW9uQmxhY2svXxApL1VzZXJzL3NoYWRvd29wcy9E
@@ -1621,7 +1683,7 @@
 				WIARgACAAIBWgFOAUoBVgFRfECRDMUUzNjdGMy0xRUQ4
 				LTRFN0MtQUNCRC1BMkFFNTc5OTE1MjZYQ0JCQS5naWZf
 				ECQ1MzhCRUMwRC04MzhELTQ0MDUtQTU4Qi03QUVFRjIz
-				QTc4NjXSAEgACwFEAEojQcEnjwbyISmADNMACQAKAAsB
+				QTc4NjXSAEgACwFEAEojQcFYGlkpyqeADNMACQAKAAsB
 				RwFJAFOhAUiAV6EAUoAPgBBfEDFmaWxlOi8vL1VzZXJz
 				L3NoYWRvd29wcy9Eb3dubG9hZHMvQ29uZGl0aW9uQmxh
 				Y2svXxA8L1VzZXJzL3NoYWRvd29wcy9Eb3dubG9hZHMv
@@ -1994,7 +2056,7 @@
 							<key>label</key>
 							<string>Condition Black</string>
 							<key>lastBackup</key>
-							<date>2019-03-30T03:46:21Z</date>
+							<date>2019-06-11T19:12:50Z</date>
 							<key>maxConnections</key>
 							<integer>6</integer>
 							<key>path</key>

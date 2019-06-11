@@ -39,7 +39,7 @@
 					<key>file:///Users/shadowops/Downloads/ConditionBlack/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-03-30T02:38:54Z</date>
+						<date>2019-06-11T19:12:49Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -48,31 +48,41 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ioCxcBQ8yk7w
-								7cLoCN2fTQ==
+								johBroCSu+8f
+								xFFAOowteA==
 								</data>
 								<key>Size</key>
-								<integer>6446</integer>
+								<integer>6663</integer>
+							</dict>
+							<key>files/feed.xml</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								lQMpgqCZ4oSE
+								JkWdLXcSbg==
+								</data>
+								<key>Size</key>
+								<integer>1590</integer>
 							</dict>
 							<key>files/meta.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								0dx8NA1H2vug
-								y6YAMcn3iw==
+								f+5EaadgBbDJ
+								zpgBElgNCg==
 								</data>
 								<key>Size</key>
-								<integer>1610</integer>
+								<integer>1830</integer>
 							</dict>
 							<key>index.html</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								R5ErjlkbAKiG
-								wQ53t+vJyQ==
+								cu/Zxkqqwyyn
+								sQ1zlBrbUg==
 								</data>
 								<key>Size</key>
-								<integer>6408</integer>
+								<integer>6798</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
