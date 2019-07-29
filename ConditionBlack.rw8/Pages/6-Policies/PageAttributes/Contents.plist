@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/shadowops/Downloads/ConditionBlack/</key>
+					<true/>
+					<key>file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
+					<false/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Allegro</key>
+					<dict/>
+					<key>Climate</key>
+					<dict/>
+					<key>Delta</key>
+					<dict/>
+					<key>Future</key>
+					<dict>
+						<key>%colour_banner_overlay%</key>
+						<string>rgba(0,0,0,0.00)</string>
+						<key>%colour_body_text%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%colour_footer_bg%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%colour_footer_text%</key>
+						<string>rgba(249,252,255,1.00)</string>
+						<key>%colour_headings%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%colour_nav_link%</key>
+						<string>rgba(0,26,255,0.50)</string>
+						<key>%colour_nav_link_active%</key>
+						<string>rgba(0,26,255,0.50)</string>
+						<key>%colour_primary%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%colour_slogan%</key>
+						<string>rgba(255,255,255,0.5)</string>
+						<key>%colour_title%</key>
+						<string>rgba(255,255,255,1)</string>
+					</dict>
+					<key>Tesla</key>
+					<dict>
+						<key>%colour_links%</key>
+						<string>#1D00F1</string>
+						<key>%colour_sub_current_bkg%</key>
+						<string>#FDFBFF</string>
+						<key>%colour_top_current_bkg%</key>
+						<string>#262527</string>
+					</dict>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>policies</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>policy.html</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Allegro</key>
+					<array>
+						<string>Content Font Family.Helvetica</string>
+						<string>Content Font Size.12 px</string>
+						<string>Footer Font Family.Georgia</string>
+						<string>Headings Font Family.Helvetica</string>
+						<string>Sidebar.Right</string>
+						<string>Slogan Font Family.Helvetica</string>
+						<string>Slogan Font Style.Normal</string>
+						<string>Title Font Family.Helvetica</string>
+						<string>Title Font Style.Bold</string>
+						<string>Toolbar Font Family.Helvetica</string>
+					</array>
+					<key>Climate</key>
+					<array>
+						<string>Banner Background.Saturate</string>
+						<string>Content Width.Pixels</string>
+						<string>Navigation.Logo</string>
+					</array>
+					<key>Dark Dash Original</key>
+					<array>
+						<string>Sidebar.Right</string>
+					</array>
+					<key>Delta</key>
+					<array>
+						<string>Icons.Orange</string>
+						<string>Sidebar.Right</string>
+						<string>Width.800px</string>
+					</array>
+					<key>Future</key>
+					<array>
+						<string>Banner.Brightness</string>
+						<string>Color Settings.Hide Sidebar</string>
+						<string>Content Width.Percentage</string>
+						<string>Headings.Center Aligned</string>
+						<string>Headings.Show Dividers</string>
+						<string>Navigation.Logo</string>
+						<string>Navigation.Site Title</string>
+						<string>Navigation.Uppercase Links</string>
+					</array>
+					<key>Tesla</key>
+					<array>
+						<string>Banner Background.Banner 7</string>
+						<string>Maximum Content Width.1060 px</string>
+						<string>Sidebar.Hidden</string>
+						<string>Toggles.Site Slogan Shadow</string>
+						<string>Toggles.Site Title Shadow</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%banner_filter_amount%</key>
+					<string>24</string>
+					<key>%banner_overlap_angle%</key>
+					<string>0</string>
+					<key>%body_font_size%</key>
+					<string>18</string>
+					<key>%headings_divider_width%</key>
+					<string>500</string>
+					<key>%site_width%</key>
+					<string>100</string>
+				</dict>
+				<key>openGraphImageResourceIdentifier</key>
+				<string>6B5CD83C-3562-43FF-A818-5281CB10D03D</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

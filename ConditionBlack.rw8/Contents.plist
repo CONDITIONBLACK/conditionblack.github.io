@@ -13,36 +13,10 @@
 				<string>8.1</string>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>page0 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ejh9qs0Kvy/5
-								jzU99UF2Gw==
-								</data>
-								<key>Size</key>
-								<integer>8372</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page0</string>
-						<key>SiteRoot</key>
-						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page0 - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -51,162 +25,24 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5IHHLzmEZ5P3
-								0Pl8AKOeoA==
+								ur/vIp2kmz3I
+								7GwfgmUJgg==
 								</data>
 								<key>Size</key>
-								<integer>8424</integer>
+								<integer>8917</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page0</string>
 						<key>SiteRoot</key>
 						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page1 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/6df634bd64f22193a33da2d82a3d9337-3.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eFqnCvyqGrgP
-								UVrvfzuu8g==
-								</data>
-								<key>Size</key>
-								<integer>6839</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lQMpgqCZ4oSE
-								JkWdLXcSbg==
-								</data>
-								<key>Size</key>
-								<integer>1590</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								f+5EaadgBbDJ
-								zpgBElgNCg==
-								</data>
-								<key>Size</key>
-								<integer>1830</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								A8LY7lMssmpV
-								jlqDPQrRTw==
-								</data>
-								<key>Size</key>
-								<integer>6968</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page1</string>
-						<key>SiteRoot</key>
-						<string>research</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page1 - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/6df634bd64f22193a33da2d82a3d9337-3.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								LlKAjZvdGFyO
-								Lp6peq7MTQ==
-								</data>
-								<key>Size</key>
-								<integer>6891</integer>
-							</dict>
-							<key>files/feed.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lQMpgqCZ4oSE
-								JkWdLXcSbg==
-								</data>
-								<key>Size</key>
-								<integer>1590</integer>
-							</dict>
-							<key>files/meta.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								f+5EaadgBbDJ
-								zpgBElgNCg==
-								</data>
-								<key>Size</key>
-								<integer>1830</integer>
-							</dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								pBAzy/nHFfc3
-								C2w5bfhLFw==
-								</data>
-								<key>Size</key>
-								<integer>7020</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page1</string>
-						<key>SiteRoot</key>
-						<string>research</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page2 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:12:49Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>admin.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								G6DR0uUQZMpx
-								ksZH0U/MKg==
-								</data>
-								<key>Size</key>
-								<integer>1459</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page2</string>
-						<key>SiteRoot</key>
-						<string>adnin</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>page2 - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T19:26:19Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -229,72 +65,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>page3 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-03-30T02:38:54Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>files/mailer.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								AGtBC4ycdyNa
-								H3dUAlBr3Q==
-								</data>
-								<key>Size</key>
-								<integer>9050</integer>
-							</dict>
-							<key>index.php</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								7TquHWc4U2/q
-								f75QAHhLew==
-								</data>
-								<key>Size</key>
-								<integer>7757</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page3</string>
-						<key>SiteRoot</key>
-						<string>contact-form</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page4 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5dtjRLlv38WA
-								6TSLydd+RA==
-								</data>
-								<key>Size</key>
-								<integer>6086</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page4</string>
-						<key>SiteRoot</key>
-						<string>code</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>page4 - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -303,50 +77,24 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZSwdNS3r8RDi
-								hQLJnBglOg==
+								zTeLFs9g088c
+								DwQYdL8q2g==
 								</data>
 								<key>Size</key>
-								<integer>6138</integer>
+								<integer>6178</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>page4</string>
 						<key>SiteRoot</key>
 						<string>code</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>page5 - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								j+++U08CXQ9x
-								kfgvzgmU3w==
-								</data>
-								<key>Size</key>
-								<integer>179404</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page5</string>
-						<key>SiteRoot</key>
-						<string>policies</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>page5 - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -369,76 +117,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:document:extrafiles - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rw_common/images/CBBA.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								t/XhUvwsqpKz
-								hwYlX0BN+w==
-								</data>
-								<key>Size</key>
-								<integer>5812239</integer>
-							</dict>
-							<key>rw_common/images/default.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jbsOG/bNeMj2
-								PnQSaD0LQw==
-								</data>
-								<key>Size</key>
-								<integer>110431</integer>
-							</dict>
-							<key>rw_common/images/research1.jpeg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fFyhSZTw6nXt
-								Sl+utJaWyA==
-								</data>
-								<key>Size</key>
-								<integer>1147908</integer>
-							</dict>
-							<key>rw_common/version.txt</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NXQpx4I5ME0Z
-								T1F83krUOQ==
-								</data>
-								<key>Size</key>
-								<integer>5</integer>
-							</dict>
-							<key>sitemap.xml</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								2KNEy8QH9D2b
-								1RitZeZIfQ==
-								</data>
-								<key>Size</key>
-								<integer>385</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:document:extrafiles</string>
-						<key>SiteRoot</key>
-						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:document:extrafiles - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -463,16 +145,6 @@
 								<key>Size</key>
 								<integer>110431</integer>
 							</dict>
-							<key>rw_common/images/research1.jpeg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fFyhSZTw6nXt
-								Sl+utJaWyA==
-								</data>
-								<key>Size</key>
-								<integer>1147908</integer>
-							</dict>
 							<key>rw_common/version.txt</key>
 							<dict>
 								<key>Digest</key>
@@ -487,150 +159,24 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								X0/+LDFBPaPv
-								qqIiVGLfeA==
+								OiY+5Wor6Sq5
+								EKu4mcAW1g==
 								</data>
 								<key>Size</key>
-								<integer>637</integer>
+								<integer>314</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>
 						<string>rw:document:extrafiles</string>
 						<key>SiteRoot</key>
 						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:document:resources - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-03-30T03:38:39Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>5E98B756-1E94-4612-883D-E6BA8CC65131-2872-000001E63E9FC8DE.mov</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								EKaVrT1Ze75c
-								1QHP+BewcA==
-								</data>
-								<key>Size</key>
-								<integer>2426479</integer>
-							</dict>
-							<key>CBBA.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								t/XhUvwsqpKz
-								hwYlX0BN+w==
-								</data>
-								<key>Size</key>
-								<integer>5812239</integer>
-							</dict>
-							<key>Enlight2.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								QB0LmZ/3RlgW
-								LWNygvUsBw==
-								</data>
-								<key>Size</key>
-								<integer>121450</integer>
-							</dict>
-							<key>Stock-min.jpeg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zM95KOHcVwNl
-								/82+Od6Tpw==
-								</data>
-								<key>Size</key>
-								<integer>624085</integer>
-							</dict>
-							<key>favicon_large.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								+mA2qv6ZObG8
-								L87rnQGEBQ==
-								</data>
-								<key>Size</key>
-								<integer>6452</integer>
-							</dict>
-							<key>favicon_medium.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								62tPpLhs+S6K
-								e39xzO51Zw==
-								</data>
-								<key>Size</key>
-								<integer>2778</integer>
-							</dict>
-							<key>favicon_small.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Q1LMnqCMEsfY
-								rax2qht2HQ==
-								</data>
-								<key>Size</key>
-								<integer>1675</integer>
-							</dict>
-							<key>future.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								echRgNreeMat
-								VgM2J/DoVg==
-								</data>
-								<key>Size</key>
-								<integer>6256</integer>
-							</dict>
-							<key>medium.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								tOJcR6VF8P7s
-								OlpCfnGYRQ==
-								</data>
-								<key>Size</key>
-								<integer>28322</integer>
-							</dict>
-							<key>research1.jpeg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								fFyhSZTw6nXt
-								Sl+utJaWyA==
-								</data>
-								<key>Size</key>
-								<integer>1147908</integer>
-							</dict>
-							<key>small.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								V/bhTDM60tKJ
-								NSwmLHPvhA==
-								</data>
-								<key>Size</key>
-								<integer>25302</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:document:resources</string>
-						<key>SiteRoot</key>
-						<string>resources</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
 					<key>rw:document:resources - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T19:26:19Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -753,288 +299,10 @@
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
-					<key>rw:plugin:blog - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-02-26T15:20:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rss.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ySu0h74kFZbd
-								w1d11rHDPA==
-								</data>
-								<key>Size</key>
-								<integer>219</integer>
-							</dict>
-							<key>smiley_angry.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OsvBGlBtLs1C
-								xAB3/F5vkA==
-								</data>
-								<key>Size</key>
-								<integer>1275</integer>
-							</dict>
-							<key>smiley_embarrassed.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Ok+zrbTJSQbz
-								YHvbtXa5FQ==
-								</data>
-								<key>Size</key>
-								<integer>1310</integer>
-							</dict>
-							<key>smiley_footinmouth.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oNlmERQNe+Jv
-								bhxYf6Q/sQ==
-								</data>
-								<key>Size</key>
-								<integer>1254</integer>
-							</dict>
-							<key>smiley_gasp.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								3fIF+LsL4I97
-								3PnZdsHYdg==
-								</data>
-								<key>Size</key>
-								<integer>1208</integer>
-							</dict>
-							<key>smiley_laugh.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aiKkmJLIzkmw
-								I7ENY7ns/A==
-								</data>
-								<key>Size</key>
-								<integer>1283</integer>
-							</dict>
-							<key>smiley_sad.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JrI6GFcEDYoD
-								NPeCi0NJDQ==
-								</data>
-								<key>Size</key>
-								<integer>1263</integer>
-							</dict>
-							<key>smiley_smile.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ek1FWaeOXYzG
-								u9xa5IUf6A==
-								</data>
-								<key>Size</key>
-								<integer>1240</integer>
-							</dict>
-							<key>smiley_wink.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zIRR5aU+gUMZ
-								uXop1aVLFA==
-								</data>
-								<key>Size</key>
-								<integer>1236</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:plugin:blog</string>
-						<key>SiteRoot</key>
-						<string>rw_common/plugins/blog</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:plugin:blog - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:26:19Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>rss.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ySu0h74kFZbd
-								w1d11rHDPA==
-								</data>
-								<key>Size</key>
-								<integer>219</integer>
-							</dict>
-							<key>smiley_angry.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OsvBGlBtLs1C
-								xAB3/F5vkA==
-								</data>
-								<key>Size</key>
-								<integer>1275</integer>
-							</dict>
-							<key>smiley_embarrassed.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Ok+zrbTJSQbz
-								YHvbtXa5FQ==
-								</data>
-								<key>Size</key>
-								<integer>1310</integer>
-							</dict>
-							<key>smiley_footinmouth.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oNlmERQNe+Jv
-								bhxYf6Q/sQ==
-								</data>
-								<key>Size</key>
-								<integer>1254</integer>
-							</dict>
-							<key>smiley_gasp.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								3fIF+LsL4I97
-								3PnZdsHYdg==
-								</data>
-								<key>Size</key>
-								<integer>1208</integer>
-							</dict>
-							<key>smiley_laugh.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aiKkmJLIzkmw
-								I7ENY7ns/A==
-								</data>
-								<key>Size</key>
-								<integer>1283</integer>
-							</dict>
-							<key>smiley_sad.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JrI6GFcEDYoD
-								NPeCi0NJDQ==
-								</data>
-								<key>Size</key>
-								<integer>1263</integer>
-							</dict>
-							<key>smiley_smile.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ek1FWaeOXYzG
-								u9xa5IUf6A==
-								</data>
-								<key>Size</key>
-								<integer>1240</integer>
-							</dict>
-							<key>smiley_wink.png</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zIRR5aU+gUMZ
-								uXop1aVLFA==
-								</data>
-								<key>Size</key>
-								<integer>1236</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:plugin:blog</string>
-						<key>SiteRoot</key>
-						<string>rw_common/plugins/blog</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:theme:Future - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-03-30T03:38:39Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>consolidated-0.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								3M+x4Qw9TOO7
-								tPSeqoabyQ==
-								</data>
-								<key>Size</key>
-								<integer>182598</integer>
-							</dict>
-							<key>consolidated-1.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								J6Qw3HVyC/5l
-								YPVsAB3f+g==
-								</data>
-								<key>Size</key>
-								<integer>182618</integer>
-							</dict>
-							<key>consolidated.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hg+ZRyjtJ89Y
-								VDFH+teL6g==
-								</data>
-								<key>Size</key>
-								<integer>182645</integer>
-							</dict>
-							<key>images/banners/default.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								jbsOG/bNeMj2
-								PnQSaD0LQw==
-								</data>
-								<key>Size</key>
-								<integer>110431</integer>
-							</dict>
-							<key>js/main.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								zCNJWjN975o8
-								Vh1hhm8CnQ==
-								</data>
-								<key>Size</key>
-								<integer>155733</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:theme:Future</string>
-						<key>SiteRoot</key>
-						<string>rw_common/themes/Future</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>rw:theme:Future - file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T19:26:19Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1048,16 +316,6 @@
 								</data>
 								<key>Size</key>
 								<integer>182598</integer>
-							</dict>
-							<key>consolidated-1.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								J6Qw3HVyC/5l
-								YPVsAB3f+g==
-								</data>
-								<key>Size</key>
-								<integer>182618</integer>
 							</dict>
 							<key>consolidated.css</key>
 							<dict>
@@ -1094,922 +352,6 @@
 						<string>rw:theme:Future</string>
 						<key>SiteRoot</key>
 						<string>rw_common/themes/Future</string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
-					<key>rw:theme:tesla - file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-02-26T15:20:48Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>consolidated.css</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OBWdpiYitkKk
-								tdwDHE9x6g==
-								</data>
-								<key>Size</key>
-								<integer>70289</integer>
-							</dict>
-							<key>fonts/FontAwesome.otf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								DScXzV2FPlx2
-								XKAy39QaTQ==
-								</data>
-								<key>Size</key>
-								<integer>134808</integer>
-							</dict>
-							<key>fonts/arvo-v10-latin-regular.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								yJhoLjm+0oKE
-								jyJcHHJbVQ==
-								</data>
-								<key>Size</key>
-								<integer>22222</integer>
-							</dict>
-							<key>fonts/arvo-v10-latin-regular.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wvFqdpfACOGL
-								PtYP9xdXAA==
-								</data>
-								<key>Size</key>
-								<integer>72576</integer>
-							</dict>
-							<key>fonts/arvo-v10-latin-regular.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								yxHQXPp1rEgE
-								FBz7wgeTRg==
-								</data>
-								<key>Size</key>
-								<integer>37300</integer>
-							</dict>
-							<key>fonts/arvo-v10-latin-regular.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								2XLYvld5YOVZ
-								MQ7GfNfK/w==
-								</data>
-								<key>Size</key>
-								<integer>25368</integer>
-							</dict>
-							<key>fonts/arvo-v10-latin-regular.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								M2py0gv0ss5R
-								Ed/T6hm90Q==
-								</data>
-								<key>Size</key>
-								<integer>21600</integer>
-							</dict>
-							<key>fonts/fontawesome-webfont.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Z09Q0oeoxI3B
-								m6QE0g/nEw==
-								</data>
-								<key>Size</key>
-								<integer>165742</integer>
-							</dict>
-							<key>fonts/fontawesome-webfont.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kS7GbXVy/4IX
-								STGTlkcL3g==
-								</data>
-								<key>Size</key>
-								<integer>444379</integer>
-							</dict>
-							<key>fonts/fontawesome-webfont.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								sGhx8oH+5rJB
-								1gWCrpNpuQ==
-								</data>
-								<key>Size</key>
-								<integer>165548</integer>
-							</dict>
-							<key>fonts/fontawesome-webfont.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/uZucSqKCO71
-								gFpGiSkyrQ==
-								</data>
-								<key>Size</key>
-								<integer>98024</integer>
-							</dict>
-							<key>fonts/fontawesome-webfont.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								r3rlBanu1QP4
-								uOaYIDaHPg==
-								</data>
-								<key>Size</key>
-								<integer>77160</integer>
-							</dict>
-							<key>fonts/noto-serif-v6-latin-regular.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								16+BtGOKmDEF
-								IrYHLle1iw==
-								</data>
-								<key>Size</key>
-								<integer>24332</integer>
-							</dict>
-							<key>fonts/noto-serif-v6-latin-regular.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								12cniuZK07vj
-								dDQpeUOBIg==
-								</data>
-								<key>Size</key>
-								<integer>91621</integer>
-							</dict>
-							<key>fonts/noto-serif-v6-latin-regular.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								5yeL32ZiaUv1
-								99usWTLOtA==
-								</data>
-								<key>Size</key>
-								<integer>42568</integer>
-							</dict>
-							<key>fonts/noto-serif-v6-latin-regular.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								GuSw4xSof9J6
-								8lLfU0Mzxg==
-								</data>
-								<key>Size</key>
-								<integer>27004</integer>
-							</dict>
-							<key>fonts/noto-serif-v6-latin-regular.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								9/uZIqsAE/Du
-								LxHKVO1riA==
-								</data>
-								<key>Size</key>
-								<integer>23352</integer>
-							</dict>
-							<key>fonts/open-sans-v15-latin-regular.eot</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								nc5/AXFTQIYb
-								21cxji8/3A==
-								</data>
-								<key>Size</key>
-								<integer>15050</integer>
-							</dict>
-							<key>fonts/open-sans-v15-latin-regular.svg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eqtME2cSgskG
-								aetqEDV+QQ==
-								</data>
-								<key>Size</key>
-								<integer>56266</integer>
-							</dict>
-							<key>fonts/open-sans-v15-latin-regular.ttf</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								wEW3PYaANob0
-								zRzD+c66WQ==
-								</data>
-								<key>Size</key>
-								<integer>26488</integer>
-							</dict>
-							<key>fonts/open-sans-v15-latin-regular.woff</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								vy0Hg1FbfXXD
-								W95p4BsxNQ==
-								</data>
-								<key>Size</key>
-								<integer>17704</integer>
-							</dict>
-							<key>fonts/open-sans-v15-latin-regular.woff2</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								z/tobX0vRoLf
-								g0K9TSduCQ==
-								</data>
-								<key>Size</key>
-								<integer>14048</integer>
-							</dict>
-							<key>images/banners/banner_1.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								dy5lVLc8sDe+
-								c+VlWSZZyw==
-								</data>
-								<key>Size</key>
-								<integer>177090</integer>
-							</dict>
-							<key>images/banners/banner_10.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								67koleZ4r+gj
-								fmsLHx/Ppw==
-								</data>
-								<key>Size</key>
-								<integer>497840</integer>
-							</dict>
-							<key>images/banners/banner_10_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								AAcvRrwh9htr
-								VNFzRmVWhQ==
-								</data>
-								<key>Size</key>
-								<integer>197749</integer>
-							</dict>
-							<key>images/banners/banner_10_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								XFsckHGbQBsG
-								iHM6xVQ+RQ==
-								</data>
-								<key>Size</key>
-								<integer>55251</integer>
-							</dict>
-							<key>images/banners/banner_11.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ytCJ0YyeoHdt
-								Zkb9e+MfYg==
-								</data>
-								<key>Size</key>
-								<integer>201067</integer>
-							</dict>
-							<key>images/banners/banner_11_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								etFFZ0l8aMw1
-								kn/IpOikQQ==
-								</data>
-								<key>Size</key>
-								<integer>87908</integer>
-							</dict>
-							<key>images/banners/banner_11_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								nmXtdUL95X9Y
-								woWacWGYyg==
-								</data>
-								<key>Size</key>
-								<integer>33976</integer>
-							</dict>
-							<key>images/banners/banner_12.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								/vjuMXCpYRf3
-								RYH5QjmN8Q==
-								</data>
-								<key>Size</key>
-								<integer>356600</integer>
-							</dict>
-							<key>images/banners/banner_12_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								QgJeDoxIZp79
-								Le4pE3zhYg==
-								</data>
-								<key>Size</key>
-								<integer>132923</integer>
-							</dict>
-							<key>images/banners/banner_12_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4mDVCxhNnUiY
-								tSt919BSRg==
-								</data>
-								<key>Size</key>
-								<integer>39100</integer>
-							</dict>
-							<key>images/banners/banner_13.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								aS9UtZB/jkPB
-								4vHgnKCHZg==
-								</data>
-								<key>Size</key>
-								<integer>356271</integer>
-							</dict>
-							<key>images/banners/banner_13_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								+jxhcSuyHhil
-								lC3PuUVQeA==
-								</data>
-								<key>Size</key>
-								<integer>103706</integer>
-							</dict>
-							<key>images/banners/banner_13_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								8If4lLMwu60I
-								t+NbHIniAg==
-								</data>
-								<key>Size</key>
-								<integer>29737</integer>
-							</dict>
-							<key>images/banners/banner_14.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								IQ2hyh5zdGtD
-								DSCv6TO1IQ==
-								</data>
-								<key>Size</key>
-								<integer>481417</integer>
-							</dict>
-							<key>images/banners/banner_14_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OT/wjzBrRq9f
-								VDDuuS42uA==
-								</data>
-								<key>Size</key>
-								<integer>78925</integer>
-							</dict>
-							<key>images/banners/banner_14_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								kpM73SMa/50P
-								X11eYo3Btw==
-								</data>
-								<key>Size</key>
-								<integer>26411</integer>
-							</dict>
-							<key>images/banners/banner_15.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								a1uLWV70KFQF
-								PRxnwBAr2Q==
-								</data>
-								<key>Size</key>
-								<integer>491222</integer>
-							</dict>
-							<key>images/banners/banner_15_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cd+xuLeuUdGY
-								vSnv4/bUTg==
-								</data>
-								<key>Size</key>
-								<integer>137396</integer>
-							</dict>
-							<key>images/banners/banner_15_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								CVgX+WXKh86D
-								eisCmBa9Rw==
-								</data>
-								<key>Size</key>
-								<integer>45971</integer>
-							</dict>
-							<key>images/banners/banner_16.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hQmvOUOsBQnT
-								6C4W8mp40w==
-								</data>
-								<key>Size</key>
-								<integer>646033</integer>
-							</dict>
-							<key>images/banners/banner_16_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								BPU+4QkiinG7
-								n8aYvXPWAw==
-								</data>
-								<key>Size</key>
-								<integer>252640</integer>
-							</dict>
-							<key>images/banners/banner_16_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lFmZptkdYj2W
-								lKQwlqqQsQ==
-								</data>
-								<key>Size</key>
-								<integer>56466</integer>
-							</dict>
-							<key>images/banners/banner_17.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								mJ8gsnqhKrro
-								+MQlitZ/Ug==
-								</data>
-								<key>Size</key>
-								<integer>200645</integer>
-							</dict>
-							<key>images/banners/banner_17_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								oe3Ucf+ZvrUb
-								8BY7fSdYow==
-								</data>
-								<key>Size</key>
-								<integer>71625</integer>
-							</dict>
-							<key>images/banners/banner_17_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								rSFsqzJUq4Po
-								v2r51MzvZw==
-								</data>
-								<key>Size</key>
-								<integer>21226</integer>
-							</dict>
-							<key>images/banners/banner_18.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Wlmh2bxolcSq
-								I0VAITVKbQ==
-								</data>
-								<key>Size</key>
-								<integer>660087</integer>
-							</dict>
-							<key>images/banners/banner_18_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NaARQT3Ui1SP
-								sWFkYi3TIA==
-								</data>
-								<key>Size</key>
-								<integer>272753</integer>
-							</dict>
-							<key>images/banners/banner_18_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Uq9c0UZft/p5
-								XDyxmIFPmw==
-								</data>
-								<key>Size</key>
-								<integer>56028</integer>
-							</dict>
-							<key>images/banners/banner_19.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ReZv5Xr+Uumt
-								lSjPhN0IaA==
-								</data>
-								<key>Size</key>
-								<integer>533269</integer>
-							</dict>
-							<key>images/banners/banner_19_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								+EXGcEzZs1OB
-								RZkmggd+6Q==
-								</data>
-								<key>Size</key>
-								<integer>164025</integer>
-							</dict>
-							<key>images/banners/banner_19_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Y3508BkgOT4A
-								cZ7SP+T9uQ==
-								</data>
-								<key>Size</key>
-								<integer>44535</integer>
-							</dict>
-							<key>images/banners/banner_1_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								41rEYz57jbEP
-								HbgN1ycl0A==
-								</data>
-								<key>Size</key>
-								<integer>64428</integer>
-							</dict>
-							<key>images/banners/banner_1_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								JO2Jnov/zRxl
-								ym9rq5J+RA==
-								</data>
-								<key>Size</key>
-								<integer>29346</integer>
-							</dict>
-							<key>images/banners/banner_2.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								gYk3p88WFIuX
-								eCNUIdk0yA==
-								</data>
-								<key>Size</key>
-								<integer>1039554</integer>
-							</dict>
-							<key>images/banners/banner_20.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								PlDpNlW6kNz7
-								K59kOO0dVA==
-								</data>
-								<key>Size</key>
-								<integer>506605</integer>
-							</dict>
-							<key>images/banners/banner_20_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								m8c+FHvDBqV8
-								xz4XGOuD2w==
-								</data>
-								<key>Size</key>
-								<integer>79754</integer>
-							</dict>
-							<key>images/banners/banner_20_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								0WfTtmqQ8MNo
-								y+j8Tp28pQ==
-								</data>
-								<key>Size</key>
-								<integer>33357</integer>
-							</dict>
-							<key>images/banners/banner_2_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								4Eih2aVyKAA7
-								r477IDZ58A==
-								</data>
-								<key>Size</key>
-								<integer>229401</integer>
-							</dict>
-							<key>images/banners/banner_2_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								phI+yV3MJY/L
-								dK80UbaZfg==
-								</data>
-								<key>Size</key>
-								<integer>61761</integer>
-							</dict>
-							<key>images/banners/banner_3.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								I0G6iKSIUpTe
-								jKg4xshBAA==
-								</data>
-								<key>Size</key>
-								<integer>306888</integer>
-							</dict>
-							<key>images/banners/banner_3_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								AhAhZ9glkZru
-								jW5aQxxONQ==
-								</data>
-								<key>Size</key>
-								<integer>70466</integer>
-							</dict>
-							<key>images/banners/banner_3_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								n2SrDLd6ZAej
-								1F+6PmTU1w==
-								</data>
-								<key>Size</key>
-								<integer>20584</integer>
-							</dict>
-							<key>images/banners/banner_4.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								rglauj2i56DL
-								SVfpIxL47A==
-								</data>
-								<key>Size</key>
-								<integer>164915</integer>
-							</dict>
-							<key>images/banners/banner_4_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								SQsUxQuA5kfV
-								DESM2nFenw==
-								</data>
-								<key>Size</key>
-								<integer>65688</integer>
-							</dict>
-							<key>images/banners/banner_4_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								OVtmqDWiGWc7
-								51LcbH+8+A==
-								</data>
-								<key>Size</key>
-								<integer>21838</integer>
-							</dict>
-							<key>images/banners/banner_5.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								iXSNuaYbYqio
-								KjmGJZ2+mQ==
-								</data>
-								<key>Size</key>
-								<integer>232497</integer>
-							</dict>
-							<key>images/banners/banner_5_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								lnOzJ3GTbxJp
-								uuhDMykJ9Q==
-								</data>
-								<key>Size</key>
-								<integer>74501</integer>
-							</dict>
-							<key>images/banners/banner_5_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								GZzPqKA9ki0z
-								FOQRnERbvQ==
-								</data>
-								<key>Size</key>
-								<integer>27165</integer>
-							</dict>
-							<key>images/banners/banner_6.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hwpfZPLsSvnJ
-								7XZZEsP8rA==
-								</data>
-								<key>Size</key>
-								<integer>414534</integer>
-							</dict>
-							<key>images/banners/banner_6_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								+6Qux6l498C9
-								mGFTg4XYxA==
-								</data>
-								<key>Size</key>
-								<integer>116411</integer>
-							</dict>
-							<key>images/banners/banner_6_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								akG494aGA2oT
-								kfzv/f+Wew==
-								</data>
-								<key>Size</key>
-								<integer>36014</integer>
-							</dict>
-							<key>images/banners/banner_7.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								CY5JlQ924lBd
-								SL3EAcjZWA==
-								</data>
-								<key>Size</key>
-								<integer>542369</integer>
-							</dict>
-							<key>images/banners/banner_7_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cWjldaT1QaLu
-								1Se+uPa7rw==
-								</data>
-								<key>Size</key>
-								<integer>161598</integer>
-							</dict>
-							<key>images/banners/banner_7_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ulukPFpjSZLY
-								dUW46tbYuQ==
-								</data>
-								<key>Size</key>
-								<integer>38355</integer>
-							</dict>
-							<key>images/banners/banner_8.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								q2W91az1kD2j
-								fpST7XNsCQ==
-								</data>
-								<key>Size</key>
-								<integer>303457</integer>
-							</dict>
-							<key>images/banners/banner_8_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								eISs1xcVz4wQ
-								PTrNC2cm4A==
-								</data>
-								<key>Size</key>
-								<integer>124335</integer>
-							</dict>
-							<key>images/banners/banner_8_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ak6Gyy8Srf/w
-								Gub8fBWewg==
-								</data>
-								<key>Size</key>
-								<integer>39370</integer>
-							</dict>
-							<key>images/banners/banner_9.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ZpuZag10PRZL
-								OhwBAc4v6g==
-								</data>
-								<key>Size</key>
-								<integer>229340</integer>
-							</dict>
-							<key>images/banners/banner_9_medium.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								GSfy9EtvJpl1
-								aVgRCw+EaQ==
-								</data>
-								<key>Size</key>
-								<integer>70377</integer>
-							</dict>
-							<key>images/banners/banner_9_small.jpg</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								G3zRmLBfQCp/
-								ut/mUO1NZg==
-								</data>
-								<key>Size</key>
-								<integer>26965</integer>
-							</dict>
-							<key>images/banners/loader.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								hv+2OS435O8C
-								Gv7bqy6ROA==
-								</data>
-								<key>Size</key>
-								<integer>651</integer>
-							</dict>
-							<key>images/banners/loader11.gif</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ucolAOswccGI
-								o7qsvZTWbg==
-								</data>
-								<key>Size</key>
-								<integer>7269</integer>
-							</dict>
-							<key>javascript.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								iTaGLk0NKrMX
-								hSvOZBMTyw==
-								</data>
-								<key>Size</key>
-								<integer>10724</integer>
-							</dict>
-							<key>js/elixir.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ydnTJB9aup8s
-								vPPUINDnMQ==
-								</data>
-								<key>Size</key>
-								<integer>31012</integer>
-							</dict>
-							<key>js/fitvids.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NkDSZmDvQvej
-								NS/TPeugUg==
-								</data>
-								<key>Size</key>
-								<integer>2155</integer>
-							</dict>
-							<key>js/jquery.min.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								NXam5zydzNu8
-								Siz4/1RK1w==
-								</data>
-								<key>Size</key>
-								<integer>93636</integer>
-							</dict>
-							<key>js/sidebar/sidebar_hidden.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								cp241CU0eGik
-								MJDtjaq8Cg==
-								</data>
-								<key>Size</key>
-								<integer>392</integer>
-							</dict>
-							<key>js/sidebar/sidebar_left.js</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								Eo2tQgSjGYU2
-								vCJVviX5HA==
-								</data>
-								<key>Size</key>
-								<integer>383</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>rw:theme:tesla</string>
-						<key>SiteRoot</key>
-						<string>rw_common/themes/tesla</string>
 						<key>Version</key>
 						<integer>3</integer>
 					</dict>
@@ -2112,7 +454,7 @@
 				ECRFQzIwMEEyRS1CRkJCLTRBODQtOURDRC1GNzc4QzlC
 				N0E5RDBaZnV0dXJlLnBuZ18QJDZBNkFEQ0ZFLUMzRkQt
 				NDU5Ny05QzQ5LTc1NjdCMDNEMzRBRdIAWQALAFoAW1dO
-				Uy50aW1lI0HBWCklajeLgBHSACgAKQBdAF5WTlNEYXRl
+				Uy50aW1lI0HBd0bQ2UulgBHSACgAKQBdAF5WTlNEYXRl
 				ogBdAC3TAAkACgALAGAAYwBmogBhAGKAE4AUogBkAGSA
 				FYAVgBZfEDFmaWxlOi8vL1VzZXJzL3NoYWRvd29wcy9E
 				b3dubG9hZHMvQ29uZGl0aW9uQmxhY2svXxBUZmlsZTov
@@ -2133,7 +475,7 @@
 				RXpNalE1ZlEmcz02MzFhMmY2NzQ4MTljOTg5MGYzMDdi
 				NGVmMzRlOTIyOdMAgQALAIIAFgCEAHxXTlMuYmFzZVtO
 				Uy5yZWxhdGl2ZYAAgB2AG9IAKAApAIcAiFVOU1VSTKIA
-				hwAt0gBZAAsAigBbI0HBWCklajf4gBHTAAkACgALAI0A
+				hwAt0gBZAAsAigBbI0HBd0bQ2UwrgBHTAAkACgALAI0A
 				kABmogCOAI+AIIAhogBkAGSAFYAVgBZfEDFmaWxlOi8v
 				L1VzZXJzL3NoYWRvd29wcy9Eb3dubG9hZHMvQ29uZGl0
 				aW9uQmxhY2svXxBUZmlsZTovLy9Vc2Vycy9zaGFkb3dv
@@ -2149,8 +491,8 @@
 				ZW50cm9weSZjcz10aW55c3JnYiZ3PTEwODAmZml0PW1h
 				eCZpeGlkPWV5SmhjSEJmYVdRaU9qRXpNalE1ZlEmcz1j
 				YWFhNWIxMTY4NjE3ODRmMmRjYWNkMTVkZDdmMmRhYdMA
-				gQALAIIAFgCEAKCAAIAdgCXSAFkACwCpAFsjQcFYKSVq
-				OCqAEdMACQAKAAsArACvAGaiAK0AroApgCqiAGQAZIAV
+				gQALAIIAFgCEAKCAAIAdgCXSAFkACwCpAFsjQcF3RtDZ
+				TFWAEdMACQAKAAsArACvAGaiAK0AroApgCqiAGQAZIAV
 				gBWAFl8QMWZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL0Rv
 				d25sb2Fkcy9Db25kaXRpb25CbGFjay9fEFRmaWxlOi8v
 				L1VzZXJzL3NoYWRvd29wcy9TaXRlL2NvbmRpdGlvbmJs
@@ -2166,7 +508,7 @@
 				Jnc9MTA4MCZmaXQ9bWF4Jml4aWQ9ZXlKaGNIQmZhV1Fp
 				T2pFek1qUTVmUSZzPWY4MmY4MmZkMTZlYmJlZGMxNWFm
 				MWI3OGZiY2Q5Zjhj0wCBAAsAggAWAIQAv4AAgB2ALtIA
-				WQALAMgAWyNBwVgpJWo4VIAR0wAJAAoACwDLAM4AZqIA
+				WQALAMgAWyNBwXdG0NlMd4AR0wAJAAoACwDLAM4AZqIA
 				zADNgDKAM6IAZABkgBWAFYAWXxAxZmlsZTovLy9Vc2Vy
 				cy9zaGFkb3dvcHMvRG93bmxvYWRzL0NvbmRpdGlvbkJs
 				YWNrL18QVGZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL1Np
@@ -2176,7 +518,7 @@
 				CIAAgBeAAIAAgDmANoA1gDiAN18QJEYxMTY0OUUyLTg2
 				NEItNDU0RS05QURGLTY4NjBDOTkzMjM1RlxFbmxpZ2h0
 				Mi5qcGdfECQzRTRBRkZCRi03MkQ3LTQ2REMtQUFGNi1E
-				NEQzRTE3MDJFNznSAFkACwDjAFsjQcFYKSVqOG2AEdMA
+				NEQzRTE3MDJFNznSAFkACwDjAFsjQcF3RtDZTKGAEdMA
 				CQAKAAsA5gDpAGaiAOcA6IA6gDuiAGQAZIAVgBWAFl8Q
 				MWZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL0Rvd25sb2Fk
 				cy9Db25kaXRpb25CbGFjay9fEFRmaWxlOi8vL1VzZXJz
@@ -2191,8 +533,8 @@
 				YmQ/aXhsaWI9cmItMS4yLjEmcT04MCZmbT1qcGcmY3Jv
 				cD1lbnRyb3B5JmNzPXRpbnlzcmdiJnc9MTA4MCZmaXQ9
 				bWF4Jml4aWQ9ZXlKaGNIQmZhV1FpT2pFek1qUTVmUdMA
-				gQALAIIAFgCEAPmAAIAdgD/SAFkACwECAFsjQcFYKSVq
-				OI+AEdMACQAKAAsBBQEIAGaiAQYBB4BDgESiAGQAZIAV
+				gQALAIIAFgCEAPmAAIAdgD/SAFkACwECAFsjQcF3RtDZ
+				TMKAEdMACQAKAAsBBQEIAGaiAQYBB4BDgESiAGQAZIAV
 				gBWAFl8QMWZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL0Rv
 				d25sb2Fkcy9Db25kaXRpb25CbGFjay9fEFRmaWxlOi8v
 				L1VzZXJzL3NoYWRvd29wcy9TaXRlL2NvbmRpdGlvbmJs
@@ -2203,8 +545,8 @@
 				OEFDMzE3OTk2OUVfED41RTk4Qjc1Ni0xRTk0LTQ2MTIt
 				ODgzRC1FNkJBOENDNjUxMzEtMjg3Mi0wMDAwMDFFNjNF
 				OUZDOERFLm1vdl8QJEE2REExNkEyLTI0NzctNEU2Qi05
-				RTc5LTg3QTNBNTYyNUFFMNIAWQALAR0AWyNBwVgpJWo4
-				sIAR0wAJAAoACwEgASMAZqIBIQEigEuATKIAZABkgBWA
+				RTc5LTg3QTNBNTYyNUFFMNIAWQALAR0AWyNBwXdG0NlM
+				5IAR0wAJAAoACwEgASMAZqIBIQEigEuATKIAZABkgBWA
 				FYAWXxAxZmlsZTovLy9Vc2Vycy9zaGFkb3dvcHMvRG93
 				bmxvYWRzL0NvbmRpdGlvbkJsYWNrL18QVGZpbGU6Ly8v
 				VXNlcnMvc2hhZG93b3BzL1NpdGUvY29uZGl0aW9uYmxh
@@ -2214,7 +556,7 @@
 				gFGAUF8QJDk5QjkwRDVELTBFN0YtNEIwNy05NDIxLTM4
 				MEEyODRBNjQ5RV5TdG9jay1taW4uanBlZ18QJDdDQ0I0
 				NkY0LUM3QjQtNEUxNS05NUFFLUQ2Qzc4MzU1MDgyMdIA
-				WQALATgAWyNBwVgpJWo40oAR0wAJAAoACwE7AT4AZqIB
+				WQALATgAWyNBwXdG0NlNBYAR0wAJAAoACwE7AT4AZqIB
 				PAE9gFOAVKIAZABkgBWAFYAWXxAxZmlsZTovLy9Vc2Vy
 				cy9zaGFkb3dvcHMvRG93bmxvYWRzL0NvbmRpdGlvbkJs
 				YWNrL18QVGZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL1Np
@@ -2226,7 +568,7 @@
 				NkI1Q0Q4M0MtMzU2Mi00M0ZGLUE4MTgtNTI4MUNCMTBE
 				MDNEXnJlc2VhcmNoMS5qcGVnXxAkMDdFQjZGRkMtQjRB
 				MS00QjlBLUI5QTQtODEzMkFEQzcwNkMw0gBZAAsBVABb
-				I0HBWCklajjzgBHTAAkACgALAVcBWgBmogFYAVmAXIBd
+				I0HBd0bQ2U0ngBHTAAkACgALAVcBWgBmogFYAVmAXIBd
 				ogBkAGSAFYAVgBZfEDFmaWxlOi8vL1VzZXJzL3NoYWRv
 				d29wcy9Eb3dubG9hZHMvQ29uZGl0aW9uQmxhY2svXxBU
 				ZmlsZTovLy9Vc2Vycy9zaGFkb3dvcHMvU2l0ZS9jb25k
@@ -2237,7 +579,7 @@
 				AWoBawiAZ4AXgACAAIBkgGGAYIBjgGJfECRDMUUzNjdG
 				My0xRUQ4LTRFN0MtQUNCRC1BMkFFNTc5OTE1MjZYQ0JC
 				QS5naWZfECQ1MzhCRUMwRC04MzhELTQ0MDUtQTU4Qi03
-				QUVFRjIzQTc4NjXSAFkACwFwAFsjQcFYKSVqOQ2AEdMA
+				QUVFRjIzQTc4NjXSAFkACwFwAFsjQcF3RtDZTVGAEdMA
 				CQAKAAsBcwF2AGaiAXQBdYBlgGaiAGQAZIAVgBWAFl8Q
 				MWZpbGU6Ly8vVXNlcnMvc2hhZG93b3BzL0Rvd25sb2Fk
 				cy9Db25kaXRpb25CbGFjay9fEFRmaWxlOi8vL1VzZXJz
@@ -2618,7 +960,7 @@
 							<key>label</key>
 							<string>Condition Black</string>
 							<key>lastBackup</key>
-							<date>2019-06-11T21:19:06Z</date>
+							<date>2019-07-29T02:12:49Z</date>
 							<key>maxConnections</key>
 							<integer>6</integer>
 							<key>path</key>

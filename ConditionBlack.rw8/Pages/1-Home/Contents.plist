@@ -36,36 +36,10 @@
 				</dict>
 				<key>PublishingManifests</key>
 				<dict>
-					<key>file:///Users/shadowops/Downloads/ConditionBlack/</key>
-					<dict>
-						<key>CreationDate</key>
-						<date>2019-06-11T19:21:46Z</date>
-						<key>DigestAlgorithm</key>
-						<string>MD5</string>
-						<key>PageDigests</key>
-						<dict>
-							<key>index.html</key>
-							<dict>
-								<key>Digest</key>
-								<data>
-								ejh9qs0Kvy/5
-								jzU99UF2Gw==
-								</data>
-								<key>Size</key>
-								<integer>8372</integer>
-							</dict>
-						</dict>
-						<key>PageID</key>
-						<string>page0</string>
-						<key>SiteRoot</key>
-						<string></string>
-						<key>Version</key>
-						<integer>3</integer>
-					</dict>
 					<key>file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2019-06-11T21:19:05Z</date>
+						<date>2019-07-29T02:12:41Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -74,11 +48,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								5IHHLzmEZ5P3
-								0Pl8AKOeoA==
+								ur/vIp2kmz3I
+								7GwfgmUJgg==
 								</data>
 								<key>Size</key>
-								<integer>8424</integer>
+								<integer>8917</integer>
 							</dict>
 						</dict>
 						<key>PageID</key>

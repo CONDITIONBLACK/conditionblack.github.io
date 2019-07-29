@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BrowserTitle</key>
+				<string>Policies</string>
+				<key>CreatedDate</key>
+				<date>2019-06-11T18:12:02Z</date>
+				<key>CustomThemeName</key>
+				<string>Future</string>
+				<key>ID</key>
+				<string>page5</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>CBSTD</string>
+				<key>PageTitle</key>
+				<string>Policies</string>
+				<key>PluginClassName</key>
+				<string>RWHTMLPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>HTML Code</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/shadowops/Site/conditionblack.github.io/REPO/conditionblack.github.io/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2019-07-29T02:12:41Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>policy.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								3QrWt0fN+zF0
+								H+8I6SJfPA==
+								</data>
+								<key>Size</key>
+								<integer>179405</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page5</string>
+						<key>SiteRoot</key>
+						<string>policies</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

@@ -17,10 +17,11 @@
 			<key>Subsandwiches</key>
 			<array>
 				<string>1-Home</string>
-				<string>2-Research</string>
+				<string>2-Contact-Us</string>
 				<string>3-Admin</string>
-				<string>4-Contact-Us</string>
-				<string>5-Policies</string>
+				<string>4-Training</string>
+				<string>5-Breach-Resources</string>
+				<string>6-Policies</string>
 			</array>
 		</dict>
 	</array>

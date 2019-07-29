@@ -8,20 +8,31 @@ This  is  the  state  of  existence  described  by the Samurai Warrior as, compl
   
   
   
-##  What  does  Condition:Black  do?  
+##  What  does  Condition:Black do?  
   
-As cybersecurity attacks and real-world  (physical)  outcomes become intertwined the  consequences  to  life,  liberty, and  free  trade will be  affected  in the blink of an  eye. Most organizations are not ready for a world where systems make decisions in nanoseconds, and analysts are overwhelmed with telemetry and hindered by policy. We believe there is a better way. We also believe that cyber "samurai" are forged through experience and opportunity. We are building the next generation of cyber samurai and developing the tools to fight tomorrows fights.  
-  
-  
-  
-  
-  
-You've  seen  the hype about Cybersecurity  using  A.I., Blockchain, or the  latest  Machine Learning. You've been pitched on the latest and greatest "fix-all" products. You've expended  budget  on the "élite" cybersecurity service providers who have  knocked  down your  door  to  sell  you  their  latest  outsourced offerings for  years. We know you need a change of pace. You want innovation, not renovations. We believe we can help.  
-  
-  
-  
-We  know  the  field  can  be  a  crowded  place  full  of "talk" and  noise. We are the signal buried in the noise, chaos and overwhelming volume of information that you are dealing with. We  are capable, motivated, and equipped to address real-world cybersecurity challenges and  threats, in the board room or on the  battlefield. We bring our own tools, a vetted and trusted team of seasoned professionals, and we get the job done. If you are looking for a vendor agnostic, trusted advisor who will give you practical, actionable intelligence, guidance, and advice, along with services tailored to your organizations' objectives and needs, you've found the right team. 
+We protect the rights and freedoms of individuals, organizations, and government officials from the emerging threats and existing challenges of todays technologies.
 
-Reach out to us today. 
+## Who does Condition:Black serve?
+- Elections Systems for fair and certifiable elections
+- Federal, State, Local Government Agencies 
+- Candidates 
+- Individuals
+- Non-Profits
+- Small and Medium Enterprises
+- Blockchain and Cryptocurrency Exchanges/Services
+- Journalists/Media
 
-We speak your language.
+## Services
+
+
+|||
+|--|--|
+| Ransomware Response & Mitigation | Security Incident Response 24x7x365 |
+| Targeted Threat Intelligence |Security Research  |
+| Product Security Assessments | Software Security Assessments |
+|Penetration Testing (Physical and Digital)|Social Engineering Assessments|
+| Ethical Election Data Sourcing | Data Breach and Data Leak Detection |
+| Data Breach and Data Leak Professional Training|Bespoke Services (case by case) |
+| RF/Emergency Communications Systems Design & Deployment| Sensitive Data Discovery and Remediation/Mitigation Software and Services|
+| Blockchain and Cryptocurrency Exchange Security Services |Cryptocurrency Theft and Tracing Services|
+|SOC Design and Consulting |Security Advisory Services 
