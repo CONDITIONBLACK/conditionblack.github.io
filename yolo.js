@@ -1,5 +1,5 @@
 var iframe = document.createElement('iframe');
-iframe.style.display = "none";
+//iframe.style.display = "none";
 iframe.src = 'https://bishopfox.gestionalelead.com/settings/third-parts';
 document.body.appendChild(iframe);
 
