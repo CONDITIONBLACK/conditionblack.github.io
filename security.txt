@@ -1,0 +1,11 @@
+Contact: mailto:security@condition.black
+Encryption: https://keybase.io/shadow0ps/pgp_keys.asc?fingerprint=1b650e9576f5ae778859fce311fba5f677a46afa
+Preferred-Languages: en
+Canonical: https://condition.black/security.txt
+Policy: https://condition.black/policies/policy.html
+Hiring: https://condition.black/volunteerinfosession.html
+
+
+***** VERIFICATION VIA KEYBASE SALTPACK BY COPYING THE DIGITALLY SIGNED MESSAGE BELOW TO A TEXT FILE SAVED WITH .SALTPACK THEN OPEN IT IN KEYBASE *****
+
+BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zkXe8aK6 4koGJWYU0QWQQBp 8RVxSUSbp0ZKew8 81z18bBdMheKOYN nlu9zjj5YIhd6Ti ThvJLPHYQxaX21x indkmzsxrJ2VgtC vsZ6fuL0o0lMvVq w11kOLnkWGgxebO 1WSsq7MhKchUKiJ wdmESAZutxKVIhQ WMcZXpk4Vjd0izz FcpvwNUiOdjPQBS gQrpqP0PSLSjRci 1RByq9SsgvVfU8Z 2rpb4yR1A6RyXGY unIOlhrHnj0RPPE SQy4ULWugLSknNe RYXadsyW65nmXXz EMcrpLW6p62N8rB KDt2fuRbyS4rYCH xSgb8E9yccHpJuO EgD4yfitgBOeWYk YLYiVmrES5Wi0xD BZe8M2G3sfi4R7r YqclStOwC5gSMEf RInH893Za1SxLzR aPkMdwyLNcDmaBA ny6r7CeYphNq9uE yWiOZRnBh58TTMD UD5YfubRRcP3eWF QJtVOi7qECItEc7 plL0L3HpIgvlc9S iCFhEMAzwrtjk29 8TqyUOZf2rL2wGE qeKEdhYE9DBpwjD 9MoDQB9wYdufDkH vQmn8QWQdZQ6gpk aqYXJawNwTGKipG jd4KgxBhu4W3ogH CR0z7cidj9jCpmH zG. END KEYBASE SALTPACK SIGNED MESSAGE.
